@@ -4,7 +4,7 @@ import { StyleSheet, Text, View, Button } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>A ver que tal aprender React JS</Text>
+      <Text>Primera Modificacion al Codigo</Text>
     </View>
   );
 }
